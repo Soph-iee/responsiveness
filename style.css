@@ -13,7 +13,7 @@
 }
 
 body {
-  background: url(/images/bg-intro-desktop.png);
+  background: url(images/bg-intro-desktop.png);
   background-color: var(--red);
   width: 100%;
   font-family: "poppins";
@@ -118,7 +118,7 @@ form span {
 
 @media only screen and (max-width: 600px) {
   body {
-    background: url(/images/bg-intro-mobile.png);
+    background: url(images/bg-intro-mobile.png);
     background-color: var(--red);
     width: 100%;
     font-family: "poppins";
